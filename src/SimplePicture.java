@@ -10,9 +10,9 @@ public class SimplePicture extends GraphicsProgram {
 	}
 	
 	public void run() {
-		GImage robot = new GImage("robot.png", 200, 100);
+		GImage robot = new GImage("tyranocif.png", 300, 300);
 		add(robot);
-		GLabel label = new GLabel("How did I get here?", 200, 400);
+		GLabel label = new GLabel("How did I get here?", 200, 300);
 		add(label);
 	}
 	
