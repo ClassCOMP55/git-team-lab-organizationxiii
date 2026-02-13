@@ -12,7 +12,7 @@ public class SimplePicture extends GraphicsProgram {
 	public void run() {
 		GImage robot = new GImage("tyranocif.png", 300, 300);
 		add(robot);
-		GLabel label = new GLabel("How did I get here?", 200, 300);
+		GLabel label = new GLabel("How i?", 300, 500);
 		add(label);
 	}
 	
