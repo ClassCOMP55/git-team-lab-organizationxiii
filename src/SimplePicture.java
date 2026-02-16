@@ -4,6 +4,7 @@ import acm.program.GraphicsProgram;
 
 public class SimplePicture extends GraphicsProgram {
 	public static int SIZE = 700;
+	public static final String IMAGE_FILENAME = "tyranocif.png";
 	
 	public void init() {
 		setSize(SIZE, SIZE);
