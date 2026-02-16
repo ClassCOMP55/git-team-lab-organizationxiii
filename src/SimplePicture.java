@@ -16,7 +16,7 @@ public class SimplePicture extends GraphicsProgram {
 		GImage robot = new GImage("tyranocif.png", 300, 300);
 		add(robot);
 
-		GLabel label = new GLabel("How am I here?", 200, 300);
+		GLabel label = new GLabel("Delayer", 200, 300);
 		add(label);
 	}
 	
